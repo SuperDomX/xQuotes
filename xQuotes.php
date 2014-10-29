@@ -6,8 +6,8 @@
  * @author didusineptus@aol.com
  * @price $25
  * @icon comments.png
- * @mini comments
- * @see community
+ * @mini quote-right
+ * @see market
  * @link quotes 
  * @table Quotes
  */
