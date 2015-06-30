@@ -1,13 +1,13 @@
 <?php
 /**
- * @name Quotes
+ * @name Testimonies
  * @desc Database of Quotes
  * @version v1.11.07.22.22.31
  * @author didusineptus@aol.com
  * @price $25
  * @icon comments.png
  * @mini quote-right
- * @see market
+ * @see community
  * @link quotes 
  * @table Quotes
  */
