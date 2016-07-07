@@ -1,6 +1,6 @@
 <?php
 /**
- * @name Quotes 
+ * @name Testimonials 
  * @desc Database of Quotes
  * @version v1.11.07.22.22.31
  * @author didusineptus@aol.com
