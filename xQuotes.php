@@ -2,8 +2,8 @@
 /**
  * @name Testimonials 
  * @desc Database of Quotes
- * @version v1.11.07.22.22.31
- * @author didusineptus@aol.com
+    * @version v0.1(160710)
+    * @author  @xopherdeep
  * @price $25
  * @icon comments.png
  * @mini quote-right
